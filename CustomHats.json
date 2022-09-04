@@ -445,6 +445,14 @@
             "author": "ダル",
             "resource": "yasaiseikatu.png",
             "climbresource": "yasaiseikatu_climb.png"
+        }, 
+        {
+            "name": "侍",
+            "author": "ダル",
+            "resource": "samurai_adaptive.png",
+            "climbresource": "samurai_adaptive_climb.png"
+            "adaptive":true
         }
+
     ]
 }
